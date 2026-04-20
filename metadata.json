@@ -1,0 +1,6 @@
+{
+  "name": "SmarterOS",
+  "description": "Plataforma de impacto positivo y productos orgánicos con sistema de ecocupones.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
